@@ -1,2 +1,2 @@
 # Adi-demo
-This is My First Repository
+This is Demo For Git & Github Classes
